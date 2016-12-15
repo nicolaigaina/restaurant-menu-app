@@ -1,2 +1,3 @@
-# restaurant-menu-app
-This app is build with react and firebase backend
+# React
+## restaurant-menu-app
+This app is build with react + gulp and firebase backend
